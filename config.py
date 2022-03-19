@@ -1,7 +1,8 @@
 SIGN_KEY = 'oc3q7ingf978mx457fgk4587fg847'
 RUCAPTCHA_KEY = ''
-NAME = ''
-USER_ID = 0
-TOKEN = ''
+NAME = 'Sonik888'
+USER_ID = 77866102
+TOKEN = '$2a$06$OyAGSzCcrZfa7I1E/LWI8O'
 HUMAN_CAPTCHA_SOLVE = True
 level = 'INFO'
+exp = False
